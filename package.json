@@ -1,0 +1,14 @@
+{
+  "name": "modern_web",
+  "version": "1.0.0",
+  "description": "Responsive modern_web",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "christopher adede",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
