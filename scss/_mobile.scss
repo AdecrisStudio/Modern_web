@@ -41,6 +41,18 @@
 
         }
     }
+
+    .about-info {
+        grid-template-areas:
+        'bioimage'
+        'job1'
+        'job2'
+        'job3'
+        'job4'
+        'job5';
+
+        grid-tamplate-columns: 1fr;
+    }
 }
 
 
